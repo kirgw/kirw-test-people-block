@@ -1,0 +1,25 @@
+first_name,middle_name,last_name,category,wiki_url
+"Brendan","James","Fraser","Movie star",https://en.wikipedia.org/wiki/Brendan_Fraser
+"Colin","James","Farrell","Movie star",https://en.wikipedia.org/wiki/Colin_Farrell
+"William","Francis","Nighy","Movie star",https://en.wikipedia.org/wiki/Bill_Nighy
+"Tom",,"Hanks","Movie star","https://en.wikipedia.org/wiki/Tom_Hanks"
+"Leonardo","Wilhelm","DiCaprio","Movie star","https://en.wikipedia.org/wiki/Leonardo_DiCaprio"
+"Bradley","Charles","Cooper","Movie star","https://en.wikipedia.org/wiki/Bradley_Cooper"
+"Angelina","Jolie","Voight","Movie star","https://en.wikipedia.org/wiki/Angelina_Jolie"
+"Robert","John","Downey Jr.","Movie star","https://en.wikipedia.org/wiki/Robert_Downey_Jr."
+"Jennifer","Joanna","Aniston","TV show star","https://en.wikipedia.org/wiki/Jennifer_Aniston"
+"Kathryn","Bailey","Beckinsale","Movie star","https://en.wikipedia.org/wiki/Kate_Beckinsale"
+"William","Bradley","Pitt","Movie star","https://en.wikipedia.org/wiki/Brad_Pitt"
+"Keanu","Charles","Reeves","Movie star","https://en.wikipedia.org/wiki/Keanu_Reeves"
+"Emma","Charlotte Duerre","Watson","Movie star","https://en.wikipedia.org/wiki/Emma_Watson"
+"Christopher","Ashton","Kutcher","TV show star","https://en.wikipedia.org/wiki/Ashton_Kutcher"
+"Taylor","Alison","Swift","Musician","https://en.wikipedia.org/wiki/Taylor_Swift"
+"Robyn","Rihanna","Fenty","Musician","https://en.wikipedia.org/wiki/Rihanna"
+"Ariana","Butera","Grande","Musician","https://en.wikipedia.org/wiki/Ariana_Grande"
+"Justin","Drew","Bieber","Musician","https://en.wikipedia.org/wiki/Justin_Bieber"
+Арам,Ильич,Хачатурян,"Classical composer","https://ru.wikipedia.org/wiki/Хачатурян,_Арам_Ильич"
+Вольфганг,Амадей,Моцарт,"Classical composer","https://ru.wikipedia.org/wiki/Моцарт,_Вольфганг_Амадей"
+Иоганнес,,Брамс,"Classical composer","https://ru.wikipedia.org/wiki/Брамс,_Иоганнес"
+Фредерик,,Шопен,"Classical composer","https://ru.wikipedia.org/wiki/Шопен,_Фредерик
+Пётр,Ильич,Чайковский,"Classical composer","https://ru.wikipedia.org/wiki/Чайковский,_Пётр_Ильич"
+Сергей,Васильевич,Рахманинов,"Classical composer","https://ru.wikipedia.org/wiki/Рахманинов,_Сергей_Васильевич"
