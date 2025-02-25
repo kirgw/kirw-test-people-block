@@ -1,4 +1,4 @@
-# People Gutenberg Block
+# "People data" Gutenberg Block
 
 ## Test task
 Create block that would display information about people from Wiki articles.
